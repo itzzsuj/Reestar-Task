@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    background-color: black;
+    color: white;
+    padding-top: 20px;
+}
+
+ul{
+    text-align: center;
+
+}
+li{
+    display: inline;
+    color: gray;
+}
+li:hover{
+    color: white;
+    cursor: pointer;
+}
+
+img{
+    height: 300px;
+    width: 300px;
+}
+
+.box{
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    display: inline-block;
+    width: 300px;
+}
+
+.body{
+    text-align: center;
+    padding: 10px;
+}
+
+button{
+    background-color: black;
+    color: white;
+}
+
+button:hover{
+    background-color: brown;
+}
+
+.contact{
+    background-color: black;
+    color: white;
+}
+
+form{
+    margin-left: 42%;
+}
